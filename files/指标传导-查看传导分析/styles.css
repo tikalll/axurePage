@@ -1,0 +1,152 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1347px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u2030 {
+  position:fixed;
+  left:50%;
+  margin-left:-674px;
+  top:0px;
+}
+#u2030_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:1348px;
+  height:33px;
+  background-image:none;
+}
+#u2030_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2031 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u2032_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1348px;
+  height:33px;
+}
+#u2032 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1347px;
+  height:32px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+}
+#u2032_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2033_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:265px;
+  height:20px;
+}
+#u2033 {
+  border-width:0px;
+  position:absolute;
+  left:28px;
+  top:5px;
+  width:264px;
+  height:19px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  color:#999999;
+}
+#u2033_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:264px;
+  white-space:nowrap;
+}
+#u2034 {
+  border-width:0px;
+  position:absolute;
+  left:124px;
+  top:0px;
+  width:61px;
+  height:32px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u2035_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:13px;
+  height:19px;
+}
+#u2035 {
+  border-width:0px;
+  position:absolute;
+  left:8px;
+  top:4px;
+  width:12px;
+  height:18px;
+}
+#u2035_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2036 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:35px;
+  width:1347px;
+  height:2000px;
+}
+#u2036_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1347px;
+  height:2000px;
+  overflow:auto;
+}
